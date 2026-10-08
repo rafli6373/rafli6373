@@ -2,9 +2,7 @@
 <h3 align="center">As an Indonesian mahasiswa, I have a lot of experience with web development and have just started my professional career in this field.</h3>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rafli6373&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=rafli6373&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently learning **Javasript dan Python**
 
