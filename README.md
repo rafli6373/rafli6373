@@ -60,21 +60,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Langs (Theme: Tokyonight) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafli6373&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Rafli's GitHub Stats" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafli6373&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="175" />
-  </p>
-
-  <!-- Streak Stats -->
+  <!-- Streak Stats Card (Aktif & Stabil) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafli6373&theme=tokyonight&hide_border=true&border_radius=10" alt="Rafli's GitHub Streak" />
   </p>
 
 </div>
-
----
-
-<div align="center">
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </div>
