@@ -61,6 +61,7 @@
   <!-- Streak Stats Card (Aktif & Stabil) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafli6373&theme=tokyonight&hide_border=true&border_radius=10" alt="Rafli's GitHub Streak" />
+    alt="Rafli's GitHub Streak" />
   </p>
 
 </div>
